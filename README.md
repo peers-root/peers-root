@@ -6,5 +6,6 @@ I enjoy breaking down complex systems, experimenting with new technologies, and 
 
 If you're interested in collaborating, want to talk about programming, or just want to chat, feel free to reach out!
 
-📺 **YouTube:** [Peers](www.youtube.com/@peers01-b8q)
 💬 **Discord:** `onyx#6231`
+
+<a href="YOUR_YOUTUBE_LINK"> <img src="https://img.shields.io/badge/YouTube-Ayden-red?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
