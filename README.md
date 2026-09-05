@@ -1,8 +1,8 @@
-##  █████▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄ 
-##  ██▄▄█▀ ██▄▄  ██▄▄  ██▄█▄ ███▄▄ 
-##  ██     ██▄▄▄ ██▄▄▄ ██ ██ ▄▄██▀ 
-                               
-
+<pre>
+█████▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄   ▄▄▄▄
+██▄▄█▀ ██▄▄  ██▄▄  ██▄█▄ ███▄▄
+██     ██▄▄▄ ██▄▄▄ ██ ██ ▄▄██▀
+</pre>
 I'm a 17-year-old programmer, coding since the age of 13. I'm passionate about understanding how malware, game anti-cheats, and low-level software work, with a particular interest in C and Windows internals.
 
 I enjoy breaking down complex systems, experimenting with new technologies, and learning more about programming and cybersecurity.
